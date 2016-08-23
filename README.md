@@ -6,4 +6,6 @@ Testing again
 
 another pull test
 
-Does this SSH thing _even work?_
+Does this SSH thing _even work?_ Sure does!
+
+How about a cron job?
