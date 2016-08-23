@@ -1,4 +1,4 @@
 # awesomeproject
 
-This is a sample awesome project. Need to test if pw is needed for every push.
+This is a sample awesome project. Testing for git pull on the VPS
 
