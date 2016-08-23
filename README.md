@@ -6,5 +6,4 @@ Testing again
 
 another pull test
 
-
-Alright you punks, this is a cronjob! 
+Does this SSH thing _even work?_
